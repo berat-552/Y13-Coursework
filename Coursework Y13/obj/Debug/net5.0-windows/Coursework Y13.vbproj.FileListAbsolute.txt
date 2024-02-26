@@ -1,0 +1,120 @@
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.exe
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.deps.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.runtimeconfig.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.runtimeconfig.dev.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\ref\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.pdb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.AssemblyReference.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Form1.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewStaff.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.GenerateResource.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.GeneratedMSBuildEditorConfig.editorconfig
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.AssemblyInfoInputs.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.AssemblyInfo.vb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.CoreCompileInputs.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\ref\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.pdb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.genruntimeconfig.cache
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.exe
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.deps.json
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.runtimeconfig.json
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.runtimeconfig.dev.json
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.dll
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\ref\Coursework Y13.dll
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.pdb
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.AssemblyReference.cache
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Form1.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewStaff.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.GenerateResource.cache
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.AssemblyInfoInputs.cache
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.AssemblyInfo.vb
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.CoreCompileInputs.cache
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.dll
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\ref\Coursework Y13.dll
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.pdb
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.genruntimeconfig.cache
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Resources.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewContact.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Resources.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewContact.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.UserLogin.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.UserLogin.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Menu.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.StockControlMenu.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Menu.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewProduct.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.StockControlMenu.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewProduct.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.ViewProducts.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Payroll.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.exe
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.deps.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.runtimeconfig.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.runtimeconfig.dev.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\ref\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.pdb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.AssemblyReference.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Form1.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Menu.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Resources.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewContact.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewProduct.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewStaff.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Payroll.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.StockControlMenu.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.UserLogin.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.ViewProducts.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.GenerateResource.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.GeneratedMSBuildEditorConfig.editorconfig
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.AssemblyInfoInputs.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.AssemblyInfo.vb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.CoreCompileInputs.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\ref\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.pdb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\OneDrive_2023-11-22\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.genruntimeconfig.cache
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.EditStaff.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.EditContact.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.AddNewStock.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.ForgotPassword.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.SearchStaff.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.StaffMenu.resources
+C:\Users\foamz\OneDrive\Desktop\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.MakeOrder.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.exe
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.deps.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.runtimeconfig.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.runtimeconfig.dev.json
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\ref\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\bin\Debug\net5.0-windows\Coursework Y13.pdb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.AssemblyReference.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.AddNewStock.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.EditContact.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.EditStaff.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.ForgotPassword.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Form1.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.MakeOrder.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Menu.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Resources.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewContact.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewProduct.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.NewStaff.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.Payroll.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.SearchStaff.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.StaffMenu.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.StockControlMenu.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.UserLogin.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework_Y13.ViewProducts.resources
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.GenerateResource.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.GeneratedMSBuildEditorConfig.editorconfig
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.AssemblyInfoInputs.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.AssemblyInfo.vb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.vbproj.CoreCompileInputs.cache
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\ref\Coursework Y13.dll
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.pdb
+\\education\managed service\secondary schools\sjrcc1\sjrcc\SimsUsers\year13\916788\Downloads\Coursework Y13\Coursework Y13\obj\Debug\net5.0-windows\Coursework Y13.genruntimeconfig.cache
