@@ -87,6 +87,12 @@ Public Class EditStaff
 
         If comStaffId.Text = "" Then
             MessageBox.Show("Please fill in all fields.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return
+        End If
+
+        If comTitle.Text = "" Then
+            MessageBox.Show("Please provide a title from the list", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return
         End If
 
         'Check if a staff id is selected

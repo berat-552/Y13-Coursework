@@ -1,4 +1,5 @@
 ﻿Imports System.IO
+Imports System.Text.RegularExpressions
 
 Public Class EditContact
     Private currentIndex As Integer = 0
@@ -84,51 +85,66 @@ Public Class EditContact
 
         If comContactID.Text = "" Then
             MessageBox.Show("Please fill in all fields.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return
         End If
 
         If txtStaffID.Text = "" Then
             MessageBox.Show("Please fill in all fields.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return
+        End If
+
+        If comContactMethods.SelectedItem = "Phone" AndAlso Not IsNumeric(comContactMethods.Text) Then
+            MessageBox.Show("Please enter a valid phone number.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return
+        End If
+
+        Dim email As String = txtContactDetails.Text
+        Dim emailPattern As String = "^\S+@\S+\.\S+$"
+        Dim regex As New Regex(emailPattern)
+
+        If Not regex.IsMatch(email) Then
+            MessageBox.Show("Invalid E-Mail, please enter a valid email address", "Invalid Email Address Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return
         End If
 
         'Check if a contact id is selected
         If comContactID.SelectedIndex <> -1 Then
 
-            'Get the selected contact ID
-            Dim selectedContactID As String = comContactID.SelectedItem.ToString()
+                'Get the selected contact ID
+                Dim selectedContactID As String = comContactID.SelectedItem.ToString()
 
-            'Extract the contact ID from the selected item
-            Dim contactId As String = selectedContactID.Split("-"c)(0).Trim()
+                'Extract the contact ID from the selected item
+                Dim contactId As String = selectedContactID.Split("-"c)(0).Trim()
 
-            'Read all contact details from the file
-            Dim allContactDetails As List(Of String) = File.ReadAllLines("AllContacts.txt").ToList()
+                'Read all contact details from the file
+                Dim allContactDetails As List(Of String) = File.ReadAllLines("AllContacts.txt").ToList()
 
-            'Find the index of the line with the selected contact ID
-            Dim contactIndex As Integer = allContactDetails.FindIndex(Function(line) line.StartsWith(contactId))
+                'Find the index of the line with the selected contact ID
+                Dim contactIndex As Integer = allContactDetails.FindIndex(Function(line) line.StartsWith(contactId))
 
-            'Check if contact details were found
-            If contactIndex <> -1 Then
-                'Split the details into individual fields (assuming comma-separated values)
-                Dim detailsArray As String() = allContactDetails(contactIndex).Split(","c)
+                'Check if contact details were found
+                If contactIndex <> -1 Then
+                    'Split the details into individual fields (assuming comma-separated values)
+                    Dim detailsArray As String() = allContactDetails(contactIndex).Split(","c)
 
-                'Assuming staff ID is at index 1
-                Dim staffID As String = detailsArray(1).Trim()
+                    Dim staffID As String = detailsArray(1).Trim()
 
-                'Update the corresponding staff ID in your form
-                txtStaffID.Text = staffID
+                    'Update the corresponding staff ID
+                    txtStaffID.Text = staffID
 
-                'Update the details for the selected contact
-                allContactDetails(contactIndex) = $"{contactId},{txtStaffID.Text},{comContactMethods.Text},{txtContactDetails.Text}"
+                    'Update the details for the selected contact
+                    allContactDetails(contactIndex) = $"{contactId},{txtStaffID.Text},{comContactMethods.Text},{txtContactDetails.Text}"
 
-                'Write the updated details back to the file
-                File.WriteAllLines("AllContacts.txt", allContactDetails)
+                    'Write the updated details back to the file
+                    File.WriteAllLines("AllContacts.txt", allContactDetails)
 
-                'Provide feedback to the user
-                MessageBox.Show("Contact details updated successfully.")
-            Else
-                'Handle the case where contact details were not found
-                MessageBox.Show("Contact details not found for selected ID.")
+                    'Provide feedback to the user
+                    MessageBox.Show("Contact details updated successfully.")
+                Else
+                    'Handle the case where contact details were not found
+                    MessageBox.Show("Contact details not found for selected ID.")
+                End If
             End If
-        End If
     End Sub
 
     Private Sub btnNextContact_Click(sender As Object, e As EventArgs) Handles btnNextContact.Click

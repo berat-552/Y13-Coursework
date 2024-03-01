@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>Coursework_Y13</RootNamespace>
-    <StartupObject>Coursework_Y13.UserLogin</StartupObject>
+    <StartupObject>Coursework_Y13.Menu</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
   </PropertyGroup>
