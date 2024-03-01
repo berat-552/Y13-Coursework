@@ -42,6 +42,9 @@ Public Class Payroll
         'Check that the totalHoursWorked input is a valid number
         If Double.TryParse(txtHrsWorked.Text, totalHoursWorked) Then
             totalHoursWorked = txtHrsWorked.Text
+        Else
+            MessageBox.Show("Hours worked must be a valid number", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            Return
         End If
 
         Dim taxRate As Double = 0.2

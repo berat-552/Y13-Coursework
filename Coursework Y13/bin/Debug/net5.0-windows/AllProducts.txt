@@ -1,8 +1,9 @@
-1,Chips,48,30,70,SA1 Frozen Foods Ltd,01792791903,Skinless thick cut chips 2kg,2.00
-2,Cod,69,20,60,SA1 Frozen Foods Ltd,01792791903,Cod fish boneless,7.49
-3,Cod bites,60,35,50,SA1 Frozen Foods Ltd,01792791903,Cod bites 3kg,5.00
-4,Scampi,50,10,50,Bidfood Swansea,03703663230,Small scampi 1kg,3.95
-5,Curry Sauce,25,10,15,T Quality Ltd,03301243707,Chinese curry sauce paste 2kg,1.95
-6,Haddock,50,30,55,T Quality Ltd,03301243707,Haddock boneless,8.59
-7,Fanta,150,50,50,T Quality Ltd,03301243707,Fanta can 330ml,1.50
-8,Pepsi,150,50,150,T Quality Ltd,03301243707,Pepsi can 330ml,1.50
+1,Chips,20,30,70,SA1 Frozen Foods Ltd,01792791903,Skinless thick cut chips 2kg very tasty,3.00
+2,Cod,69,20,60,SA1 Frozen Foods Ltd,01792791903,Cod fish boneless,7.90
+3,Cod bites,60,35,50,SA1 Frozen Foods Ltd,01792791903,Cod bites 3kg,5.60
+4,Scampi,50,10,50,Bidfood Swansea,03703663230,Small scampi 1kg,5.70
+5,Curry Sauce,25,10,15,T Quality Ltd,03301243707,Chinese curry sauce paste 2kg,2.20
+6,Haddock,50,30,55,T Quality Ltd,03301243707,Haddock boneless,8.00
+7,Fanta,150,50,50,T Quality Ltd,03301243707,Fanta can 330ml,1.59
+8,Pepsi,150,50,150,T Quality Ltd,03301243707,Pepsi can 330ml,1.59
+9,Battered Sausage,100,20,100,SA1 Frozen Foods Ltd,01792791903,Thin battered jumbo sausage,4.00

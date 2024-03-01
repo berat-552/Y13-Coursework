@@ -175,6 +175,7 @@ Public Class MakeOrder
 
         'Clear the rich text box after processing the order
         richTxtOrderItems.Clear()
+        txtTotal.Text = ""
 
         'reload the products into the allProducts list to retrieve the latest data
         allProducts = LoadAllProducts()
